@@ -12,4 +12,6 @@ this is where I'll put a summary of my Project
 
 ### How to Run
 
-1. Make correct change
+1. Enter price
+2. Enter amount tendered
+3. Return change
